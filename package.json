@@ -1,0 +1,7 @@
+{
+  "name": "NodeSigtrans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brendon Araujo <brendon.cristiano@gmail.com>",
+  "license": "MIT"
+}
